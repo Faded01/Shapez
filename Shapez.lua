@@ -38,7 +38,7 @@ local version_n = 10
 local version = '1.4'
 local author = 'sm1rnoff'
 local dlstatus = require('moonloader').download_status
-local script_url = 'https://raw.githubusercontent.com/blackw1ndow/shapez/main/Shapez.lua'
+local script_url = 'https://raw.githubusercontent.com/Faded01/Shapez/main/Shapez.lua'
 script_name('Shapez '..version..'')
 local encoding = require 'encoding'
 encoding.default = 'CP1251'
